@@ -10,6 +10,7 @@ Contribute to this repository by following these steps:
 - Now add the upstream URL using `git remote add upstream URL`. This URL is of the main repository, i.e, FossMec repository.
 - Create a file, `touch name_class.txt` and add your code to that file.
 - Make a branch using the command `git branch branchName`.
+
 - Checkout to that branch using `git checkout branchName`.
 - Now stage and commit the files using `git add .`; `git commit -m "message"`.
 - Push these changes to your forked repo using `git push origin branchName`.
@@ -17,4 +18,7 @@ Contribute to this repository by following these steps:
 - Now sit back and wait patiently for me to merge your pull request!
 - As soon as all your group members add their codes, edit the README.md file in your group folder to add the code word.
 - Make a pull request again and you WIN!
+
+
+
 hello 
